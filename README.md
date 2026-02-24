@@ -66,7 +66,7 @@
 
 
 
-![image](image/1.png)
+![Pasted image](image/1.png)
 
 
 
@@ -126,13 +126,13 @@
 
 
 
-![image](image/2.1.png)
+![Pasted image](image/2.1.png)
 
 
 
 
 
-![image](image/2.2.png)
+![Pasted image](image/2.2.png)
 
 
 
@@ -196,5 +196,5 @@
 
 
 
-![image](image/3.png)
+![Pasted image](image/3.png)
 
