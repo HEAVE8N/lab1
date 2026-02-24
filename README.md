@@ -126,13 +126,13 @@
 
 
 
-![Pasted image](image/2.1.png)
+![Pasted image image/2.1.png](https://github.com/HEAVE8N/lab1/blob/main/Image/2.1.png)
 
 
 
 
 
-![Pasted image](image/2.2.png)
+![Pasted image image/2.2.png](https://github.com/HEAVE8N/lab1/blob/main/Image/2.2.png)
 
 
 
@@ -196,5 +196,5 @@
 
 
 
-![Pasted image](image/3.png)
+![Pasted image image/3.png](https://github.com/HEAVE8N/lab1/blob/main/Image/3.png)
 
