@@ -66,7 +66,7 @@
 
 
 
-![Pasted image image/1.png]
+![Pasted image image/1.png](https://github.com/HEAVE8N/lab1/blob/main/Image/1.png)
 
 
 
