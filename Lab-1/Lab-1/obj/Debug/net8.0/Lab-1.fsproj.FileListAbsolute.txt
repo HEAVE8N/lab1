@@ -27,3 +27,4 @@ Z:\Documents\GitHub\lab1\Lab-1\Lab-1\obj\Debug\net8.0\refint\Lab-1.dll
 Z:\Documents\GitHub\lab1\Lab-1\Lab-1\obj\Debug\net8.0\Lab-1.pdb
 Z:\Documents\GitHub\lab1\Lab-1\Lab-1\obj\Debug\net8.0\Lab-1.genruntimeconfig.cache
 Z:\Documents\GitHub\lab1\Lab-1\Lab-1\obj\Debug\net8.0\ref\Lab-1.dll
+Z:\Documents\GitHub\lab1\Lab-1\Lab-1\obj\Debug\net8.0\Lab-1.sourcelink.json
